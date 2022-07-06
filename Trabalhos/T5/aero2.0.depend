@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1617458580 source:c:\users\ohaxixero\documents\prog2\aero2.0\header.cpp
+
+1617458613 source:c:\users\ohaxixero\documents\prog2\aero2.0\voo.cpp
+
+1617478443 source:c:\users\ohaxixero\documents\prog2\aero2.0\main.cpp
+	"header.hpp"
+	"Voo.hpp"
+	<string.h>
+
+1617474678 c:\users\ohaxixero\documents\prog2\aero2.0\header.hpp
+	"Voo.hpp"
+	<string>
+
+1617477543 c:\users\ohaxixero\documents\prog2\aero2.0\voo.hpp
+	<iostream>
+

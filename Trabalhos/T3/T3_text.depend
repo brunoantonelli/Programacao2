@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1614872279 source:c:\users\ohaxixero\documents\prog2\aula_4\t3_text\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<algorithm>
+

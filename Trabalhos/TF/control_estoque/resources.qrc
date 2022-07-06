@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/imagens">
+        <file>img/cadeado_aberto.png</file>
+        <file>img/cadeado_fechado.png</file>
+        <file>img/_Logotipo.png</file>
+        <file>img/Sobre.png</file>
+        <file>img/logo_wd.png</file>
+        <file>img/bw_logo.png</file>
+        <file>img/_Logotipobw.png</file>
+        <file>img/images.png</file>
+    </qresource>
+</RCC>

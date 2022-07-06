@@ -34,12 +34,12 @@ polimorfismo.
 
 ## Trabalhos
 
-- [T1 - Dictionary](LINK)
-- [T2 - Person](LINK)
-- [T3 - Cipher](LINK)
-- [T4 - Shapes distintos em uma lista genérica](LINK)
-- [T5 - Herança e Operadores](LINK)
-- [TF - GUI](LINK)
+- [T1 - Dictionary](https://github.com/brunoantonelli/Programacao2/tree/main/Trabalhos/T1)
+- [T2 - Person](https://github.com/brunoantonelli/Programacao2/tree/main/Trabalhos/T2)
+- [T3 - Cipher](https://github.com/brunoantonelli/Programacao2/tree/main/Trabalhos/T3)
+- [T4 - Shapes distintos em uma lista genérica](https://github.com/brunoantonelli/Programacao2/tree/main/Trabalhos/T4)
+- [T5 - Herança e Operadores](https://github.com/brunoantonelli/Programacao2/tree/main/Trabalhos/T5)
+- [TF - GUI](https://github.com/brunoantonelli/Programacao2/tree/main/Trabalhos/TF)
 
 <br>
 
